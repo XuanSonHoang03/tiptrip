@@ -1,0 +1,14 @@
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\bin\Debug\net8.0\TipTrip.IdentityFramework.deps.json
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\bin\Debug\net8.0\TipTrip.IdentityFramework.runtimeconfig.json
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\bin\Debug\net8.0\TipTrip.IdentityFramework.dll
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\bin\Debug\net8.0\TipTrip.IdentityFramework.pdb
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.csproj.AssemblyReference.cache
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.AssemblyInfoInputs.cache
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.AssemblyInfo.cs
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.csproj.CoreCompileInputs.cache
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.dll
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\refint\TipTrip.IdentityFramework.dll
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.pdb
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\TipTrip.IdentityFramework.genruntimeconfig.cache
+D:\Lesson University\Semester_8_SP25\EXE201\BE\TipTrip\TipTrip.IdentityFramework\obj\Debug\net8.0\ref\TipTrip.IdentityFramework.dll

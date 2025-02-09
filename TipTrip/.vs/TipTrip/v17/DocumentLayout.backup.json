@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|solutionrelative:tiptrip\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|solutionrelative:tiptrip\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A26B91-2587-49FA-928A-CB07DCB8A97F}|TipTrip.EntityFrameworkCore\\TipTrip.IdentityFramework.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip.entityframeworkcore\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A26B91-2587-49FA-928A-CB07DCB8A97F}|TipTrip.EntityFrameworkCore\\TipTrip.IdentityFramework.csproj|solutionrelative:tiptrip.entityframeworkcore\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|solutionrelative:tiptrip\\pages\\auth\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip\\implements\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|solutionrelative:tiptrip\\implements\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|solutionrelative:tiptrip\\pages\\auth\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545A9B99-CA33-4935-AAC5-78094DD3F972}|TipTrip.Common\\TipTrip.Common.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip.common\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545A9B99-CA33-4935-AAC5-78094DD3F972}|TipTrip.Common\\TipTrip.Common.csproj|solutionrelative:tiptrip.common\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545A9B99-CA33-4935-AAC5-78094DD3F972}|TipTrip.Common\\TipTrip.Common.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip.common\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545A9B99-CA33-4935-AAC5-78094DD3F972}|TipTrip.Common\\TipTrip.Common.csproj|solutionrelative:tiptrip.common\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|d:\\lesson university\\semester_8_sp25\\exe201\\project\\tiptrip\\tiptrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47620BEC-F2CF-45BC-B485-B588E59922BF}|TipTrip\\TipTrip.csproj|solutionrelative:tiptrip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.EntityFrameworkCore\\DBContext\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "TipTrip.EntityFrameworkCore\\DBContext\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.EntityFrameworkCore\\DBContext\\ApplicationDBContext.cs",
+              "RelativeToolTip": "TipTrip.EntityFrameworkCore\\DBContext\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:15:16.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.Common\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "TipTrip.Common\\Models\\LoginDTO.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.Common\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "TipTrip.Common\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T04:03:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "TipTrip\\Pages\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Login.cshtml",
+              "RelativeToolTip": "TipTrip\\Pages\\Auth\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T04:03:01.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.Common\\Models\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "TipTrip.Common\\Models\\RegisterDTO.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.Common\\Models\\RegisterDTO.cs",
+              "RelativeToolTip": "TipTrip.Common\\Models\\RegisterDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:53:21.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Implements\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "TipTrip\\Implements\\Services\\AuthenticationService.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Implements\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "TipTrip\\Implements\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAA8wE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:49:39.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "TipTrip\\Pages\\Auth\\Login.cshtml.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Login.cshtml.cs",
+              "RelativeToolTip": "TipTrip\\Pages\\Auth\\Login.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:48:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Program.cs",
+              "RelativeDocumentMoniker": "TipTrip\\Program.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Program.cs",
+              "RelativeToolTip": "TipTrip\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:47:48.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "TipTrip\\Pages\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Register.cshtml",
+              "RelativeToolTip": "TipTrip\\Pages\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T03:46:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "TipTrip\\Pages\\Auth\\Register.cshtml.cs",
+              "ToolTip": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\Pages\\Auth\\Register.cshtml.cs",
+              "RelativeToolTip": "TipTrip\\Pages\\Auth\\Register.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:46:55.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
