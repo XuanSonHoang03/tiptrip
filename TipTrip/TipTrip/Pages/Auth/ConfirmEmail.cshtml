@@ -1,0 +1,13 @@
+﻿@page
+@model TipTrip.Pages.Auth.ConfirmEmailModel
+@{
+    ViewData["Title"] = "Email Confirmation";
+}
+
+<h2>Email Confirmation</h2>
+
+<div class="alert alert-info">
+    @Model.Message
+</div>
+
+<a class="btn btn-primary" href="/Auth/Login">Go to Login</a>

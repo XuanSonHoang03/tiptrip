@@ -13,7 +13,8 @@ namespace TipTrip.IdentityFramework.DBContext
     {
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options) { }
 
-		protected override void OnModelCreating(ModelBuilder builder)
+        public ApplicationDBContext() { }
+        protected override void OnModelCreating(ModelBuilder builder)
 		{
 			base.OnModelCreating(builder);
 

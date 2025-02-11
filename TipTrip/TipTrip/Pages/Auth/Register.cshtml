@@ -27,6 +27,23 @@
             <div class="row justify-content-center">
                 <div class="col-md-6 col-lg-4">
                     <div class="login-wrap p-0">
+
+                        @* Hiển thị thông báo xác nhận email *@
+                        @if (Model.showEmailSentMessage)
+                        {
+                            <div class="alert alert-success text-center">
+                                <p>@Model.message</p>
+                            </div>
+                        }
+
+                        @* Hiển thị thông báo lỗi nếu có *@
+                        @if (!string.IsNullOrEmpty(Model.message) && !Model.showEmailSentMessage)
+                        {
+                            <div class="alert alert-danger text-center">
+                                <p>@Model.message</p>
+                            </div>
+                        }
+
                         <form method="post" class="signin-form">
                             <div class="form-group">
                                 <input asp-for="registerData.FullName" type="text" class="form-control" placeholder="Full Name" required>
@@ -48,11 +65,6 @@
                                 <button type="submit" class="form-control btn btn-primary submit px-3">Sign Up</button>
                             </div>
                         </form>
-
-                        @if (!string.IsNullOrEmpty(Model.message))
-                        {
-                            <p class="text-danger text-center">@Model.message</p>
-                        }
 
                         <p class="w-100 text-center">Already have an account? <a href="/Auth/Login" style="color: #fff">Sign In</a></p>
                     </div>

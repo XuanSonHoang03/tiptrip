@@ -12,3 +12,18 @@ D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.EntityFramew
 D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.pdb
 D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.genruntimeconfig.cache
 D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\ref\TipTrip.IdentityFramework.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\bin\Debug\net8.0\TipTrip.IdentityFramework.deps.json
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\bin\Debug\net8.0\TipTrip.IdentityFramework.runtimeconfig.json
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\bin\Debug\net8.0\TipTrip.IdentityFramework.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\bin\Debug\net8.0\TipTrip.IdentityFramework.pdb
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.AssemblyInfo.cs
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.sourcelink.json
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\refint\TipTrip.IdentityFramework.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.pdb
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\TipTrip.IdentityFramework.genruntimeconfig.cache
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.EntityFrameworkCore\obj\Debug\net8.0\ref\TipTrip.IdentityFramework.dll

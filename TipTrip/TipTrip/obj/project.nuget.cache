@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KRdzG/wiOw=",
+  "dgSpecHash": "Gu2eTZfzrN97C0bwFm1b23haHxSHUbMYuUpC5CSZB4O5xuJQu60dCvRPzV5QuqmSRHFUT4N5UyycNNnRdosKkQ==",
   "success": true,
-  "projectFilePath": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip\\TipTrip.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\TipTripProject\\tiptrip\\TipTrip\\TipTrip\\TipTrip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

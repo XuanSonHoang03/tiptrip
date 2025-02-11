@@ -909,10 +909,7 @@
       },
       "TipTrip.Common/1.0.0": {
         "runtime": {
-          "TipTrip.Common.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "TipTrip.Common.dll": {}
         }
       },
       "TipTrip.IdentityFramework/1.0.0": {
@@ -922,10 +919,7 @@
           "Microsoft.Extensions.Configuration": "9.0.1"
         },
         "runtime": {
-          "TipTrip.IdentityFramework.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "TipTrip.IdentityFramework.dll": {}
         }
       }
     }

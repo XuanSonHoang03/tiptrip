@@ -9,3 +9,15 @@ D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.Common\obj\D
 D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.Common\obj\Debug\net8.0\refint\TipTrip.Common.dll
 D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.pdb
 D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip.Common\obj\Debug\net8.0\ref\TipTrip.Common.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\bin\Debug\net8.0\TipTrip.Common.deps.json
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\bin\Debug\net8.0\TipTrip.Common.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\bin\Debug\net8.0\TipTrip.Common.pdb
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.AssemblyInfo.cs
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.sourcelink.json
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\refint\TipTrip.Common.dll
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\TipTrip.Common.pdb
+C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip.Common\obj\Debug\net8.0\ref\TipTrip.Common.dll

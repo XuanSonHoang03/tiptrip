@@ -4515,11 +4515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.IdentityFramework\\TipTrip.IdentityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\TipTripProject\\tiptrip\\TipTrip\\TipTrip.IdentityFramework\\TipTrip.IdentityFramework.csproj",
       "projectName": "TipTrip.IdentityFramework",
-      "projectPath": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.IdentityFramework\\TipTrip.IdentityFramework.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\TipTripProject\\tiptrip\\TipTrip\\TipTrip.IdentityFramework\\TipTrip.IdentityFramework.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Lesson University\\Semester_8_SP25\\EXE201\\Project\\TipTrip\\TipTrip.IdentityFramework\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\TipTripProject\\tiptrip\\TipTrip\\TipTrip.IdentityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4530,7 +4530,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4543,11 +4542,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4593,7 +4587,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

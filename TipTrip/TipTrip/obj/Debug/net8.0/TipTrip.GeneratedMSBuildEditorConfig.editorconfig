@@ -9,47 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TipTrip
 build_property.RootNamespace = TipTrip
-build_property.ProjectDir = D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip\
+build_property.ProjectDir = C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Lesson University\Semester_8_SP25\EXE201\Project\TipTrip\TipTrip
+build_property.MSBuildProjectDirectory = C:\Users\ACER\Desktop\TipTripProject\tiptrip\TipTrip\TipTrip
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Auth/Login.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Auth/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Auth/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Auth/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Auth/Register.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Error.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Auth/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Index.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Privacy.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/_ViewImports.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/_ViewStart.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Lesson University/Semester_8_SP25/EXE201/Project/TipTrip/TipTrip/Pages/Shared/_Layout.cshtml]
+[C:/Users/ACER/Desktop/TipTripProject/tiptrip/TipTrip/TipTrip/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-usrgqtg3k6
